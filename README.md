@@ -1,7 +1,5 @@
-
-
 # 💫 About Me:
-<br>🧑‍💻 About Me :<br><br>🛠️ I’m currently working on:<br>  Robotic navigation projects using ROS 2, integrating with Nav2, SLAM, and simulation environments for autonomous path planning and control.<br><br> 🧑‍🤝‍🧑 I’m looking to collaborate on:<br>  Advanced robotics applications involving **autonomous navigation**, **multi-robot systems**, and **motion planning frameworks** in both simulated and real-world environments.<br><br>🤝 I’m looking for help with:<br>  Deep integration of Isaac Sim, MoveIt 2, Navigation2, and RL-based planner, as well as optimizing robot behavior in dynamic environments.<br><br>🌱 I’m currently learning:<br>  3D simulation tools like NVIDIA Isaac Sim, Gazebo, and Webots, along with behavior trees, multi-layer costmaps, and global/local planner customization.<br><br>💬 Ask me about:<br>  ROS 2 setup, navigation stacks, launch file architecture, SLAM techniques, and autonomous path planning pipelines.<br><br>⚡ Fun fact:<br>  I’m fascinated by how robots “think” — especially when watching a robot reason through a cluttered environment and find a path like it's solving a puzzle in real time 🧭🤖<br><br>
+<br>🧑‍💻 About Me :<br><br>🛠️ I’m currently working on:<br>  Robotic navigation projects using ROS 2, integrating with Nav2, SLAM, and simulation environments for autonomous path planning and control.<br><br> 🧑‍🤝‍🧑 I’m looking to collaborate on:<br>  Advanced robotics applications involving **autonomous navigation**, **multi-robot systems**, and **motion planning frameworks** in both simulated and real-world environments.<br><br>🤝 I’m looking for help with:<br>  Deep integration of Isaac Sim, MoveIt 2, Navigation2, and RL-based planner, as well as optimizing robot behavior in dynamic environments.<br><br>🌱 I’m currently learning:<br>  3D simulation tools like NVIDIA Isaac Sim, Gazebo, and Webots, along with behavior trees, multi-layer costmaps, and global/local planner customization.<br><br>💬 Ask me about:<br>  ROS 2 setup, navigation stacks, launch file architecture, SLAM techniques, and autonomous path planning pipelines.<br>
 
 
 ## 🌐 Socials:
@@ -16,12 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IsraelAfriyie-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IsraelAfriyie-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IsraelAfriyie-dev&icon=0&color=0)](https://visitcount.itsvg.in)
