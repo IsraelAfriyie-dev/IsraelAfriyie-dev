@@ -1,6 +1,27 @@
-# 💫 About Me:
-<br>🧑‍💻 About Me :<br><br>🛠️ I’m currently working on:<br>  Robotic navigation projects using ROS 2, integrating with Nav2, SLAM, and simulation environments for autonomous path planning and control.<br><br> 🧑‍🤝‍🧑 I’m looking to collaborate on:<br>  Advanced robotics applications involving **autonomous navigation**, **multi-robot systems**, and **motion planning frameworks** in both simulated and real-world environments.<br><br>🤝 I’m looking for help with:<br>  Deep integration of Isaac Sim, MoveIt 2, Navigation2, and RL-based planner, as well as optimizing robot behavior in dynamic environments.<br><br>🌱 I’m currently learning:<br>  3D simulation tools like NVIDIA Isaac Sim, Gazebo, and Webots, along with behavior trees, multi-layer costmaps, and global/local planner customization.<br><br>💬 Ask me about:<br>  ROS 2 setup, navigation stacks, launch file architecture, SLAM techniques, and autonomous path planning pipelines.<br>
 
+# 💫 About Me:
+<br>🧑‍💻 **About Me:**<br><br>
+I’m a **Transportation Engineer** with research expertise in **autonomous navigation systems** for both ground and aerial robots. My work connects transportation engineering principles with advanced robotics to design safe, efficient, and intelligent mobility solutions.<br><br>
+
+🛠️ **I’m currently working on:**<br>
+Robotic and vehicle navigation projects using **ROS 2**, integrating with **Nav2**, **SLAM**, and simulation environments for autonomous path planning, multi-agent coordination, and traffic-aware decision-making.<br><br>
+
+🧑‍🤝‍🧑 **I’m looking to collaborate on:**<br>
+Advanced projects in **intelligent transportation systems** and **robotics** involving:
+- **Autonomous navigation** for smart mobility  
+- **Multi-robot coordination** for logistics and infrastructure inspection  
+- **Motion planning frameworks** blending classical algorithms with reinforcement learning<br><br>
+
+🤝 **I’m looking for help with:**<br>
+Deep integration of **Isaac Sim**, **MoveIt 2**, **Navigation2**, and RL-based planners, as well as optimizing robot/vehicle behavior in complex, dynamic environments.<br><br>
+
+🌱 **I’m currently learning:**<br>
+- 3D simulation platforms like **NVIDIA Isaac Sim**, **Gazebo**, and **Webots**  
+- Behavior trees for autonomy  
+- Multi-layer costmaps and custom global/local planners for real-world mobility applications<br><br>
+
+💬 **Ask me about:**<br>
+ROS 2 architecture, autonomous navigation stacks, SLAM methodologies, launch file design, motion planning pipelines, and how robotics integrates into **transportation engineering** for the future of mobility.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ry_de01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Israel Afriyie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rectility) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Israel Afriyie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:israelafriyie78@gmail.com) 
