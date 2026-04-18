@@ -3,8 +3,6 @@
 <br>🧑‍💻 **About Me:**<br><br>
 I’m a **Transportation Engineer** with research expertise in **autonomous navigation systems** for both ground and aerial robots. My work connects transportation engineering principles with advanced robotics to design safe, efficient, and intelligent mobility solutions.<br><br>
 
-🛠️ **I’m currently working on:**<br>
-Robotic and vehicle navigation projects using **ROS 2**, integrating with **Nav2**, **SLAM**, and simulation environments for autonomous path planning, multi-agent coordination, and traffic-aware decision-making.<br><br>
 
 🧑‍🤝‍🧑 **I’m looking to collaborate on:**<br>
 Advanced projects in **intelligent transportation systems** and **robotics** involving:
