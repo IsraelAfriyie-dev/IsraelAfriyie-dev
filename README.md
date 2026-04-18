@@ -1,7 +1,7 @@
 
 # About Me:
 
-I’m a **Transportation Engineer** with research expertise in **autonomous navigation systems** for both ground and aerial robots. My work connects transportation engineering principles with advanced robotics to design safe, efficient, and intelligent mobility solutions.<br><br>
+I’m a Transportation Engineer specializing in intelligent traffic systems and data-driven mobility solutions. My work focuses on applying machine learning and optimization techniques to improve traffic safety, efficiency, and decision-making in complex transportation networks.<br><br>
 
 
 ## 🌐 Socials:
