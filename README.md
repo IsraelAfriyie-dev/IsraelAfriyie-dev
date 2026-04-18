@@ -4,20 +4,6 @@
 I’m a **Transportation Engineer** with research expertise in **autonomous navigation systems** for both ground and aerial robots. My work connects transportation engineering principles with advanced robotics to design safe, efficient, and intelligent mobility solutions.<br><br>
 
 
-🧑‍🤝‍🧑 **I’m looking to collaborate on:**<br>
-Advanced projects in **intelligent transportation systems** and **robotics** involving:
-- **Autonomous navigation** for smart mobility  
-- **Multi-robot coordination** for logistics and infrastructure inspection  
-- **Motion planning frameworks** blending classical algorithms with reinforcement learning<br><br>
-
-🤝 **I’m looking for help with:**<br>
-Deep integration of **Isaac Sim**, **MoveIt 2**, **Navigation2**, and RL-based planners, as well as optimizing robot/vehicle behavior in complex, dynamic environments.<br><br>
-
-🌱 **I’m currently learning:**<br>
-- 3D simulation platforms like **NVIDIA Isaac Sim**, **Gazebo**, and **Webots**  
-- Behavior trees for autonomy  
-- Multi-layer costmaps and custom global/local planners for real-world mobility applications<br><br>
-
 💬 **Ask me about:**<br>
 ROS 2 architecture, autonomous navigation stacks, SLAM methodologies, launch file design, motion planning pipelines, and how robotics integrates into **transportation engineering** for the future of mobility.
 
