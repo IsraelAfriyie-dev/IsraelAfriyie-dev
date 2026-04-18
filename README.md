@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-<br>🧑‍💻 **About Me:**<br><br>
+# About Me:
+
 I’m a **Transportation Engineer** with research expertise in **autonomous navigation systems** for both ground and aerial robots. My work connects transportation engineering principles with advanced robotics to design safe, efficient, and intelligent mobility solutions.<br><br>
 
 
