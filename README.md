@@ -4,9 +4,6 @@
 I’m a **Transportation Engineer** with research expertise in **autonomous navigation systems** for both ground and aerial robots. My work connects transportation engineering principles with advanced robotics to design safe, efficient, and intelligent mobility solutions.<br><br>
 
 
-💬 **Ask me about:**<br>
-ROS 2 architecture, autonomous navigation stacks, SLAM methodologies, launch file design, motion planning pipelines, and how robotics integrates into **transportation engineering** for the future of mobility.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ry_de01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Israel Afriyie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rectility) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Israel Afriyie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:israelafriyie78@gmail.com) 
 
